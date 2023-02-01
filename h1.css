@@ -1,0 +1,14 @@
+#h1{
+    background-color: darkgreen;
+    color: white;
+}
+#h2{
+    margin-left: 50px;
+}
+span{
+    display: inline-flex;
+   
+}div{
+    margin-right: 200px;
+    margin-left: 100px;
+}
